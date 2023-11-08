@@ -1,4 +1,4 @@
-### 브라우저에 naver.com을 쳤을 때, 어떤 일이 발생하는지 설명하라. 
+## 브라우저에 naver.com을 쳤을 때, 어떤 일이 발생하는지 설명하라. 
 
 <details>
 <summary>생각해보고 답 확인</summary>
